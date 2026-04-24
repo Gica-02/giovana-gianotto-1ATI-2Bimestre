@@ -27,14 +27,22 @@ main{
     padding: 20px;
 }
 
+#sobre {
+    background-color: aqua;
+}
+
+.bg-color{
+    background-color: blueviolet;
+}
+
 section{
     margin-bottom: 30px;
     padding: 15px;
-    border: 1px solid #ccc;
+    border: 10px solid #ccc;
 }
 footer{
     background-color: #222;
     color: white;
     text-align: center;
     padding: 15px;
-}
+} 
